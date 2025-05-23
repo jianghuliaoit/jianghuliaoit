@@ -3,33 +3,33 @@
 <img src="./static/images/header.jpg" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">这里是江湖聊IT，一个专注于技术与生活的分享，记录一路上的心得与感悟。</div>
+### <div align="center">江湖聊IT，一个专注于技术与生活分享的网络博客</div>
 
 <br>
 
 <!-- skill -->
 
-## My Skill Set
+## 技能
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,tailwind,webpack,jest&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,tailwind,webpack,jest&theme=light&perline=6" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,prisma,mongodb,mysql&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,prisma,mongodb,mysql&theme=light&perline=6"/>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,docker&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,docker&theme=light&perline=6"/>
     </td>
   </tr>
 </table>
@@ -49,8 +49,6 @@
 
 ## 博客
 
-以博文的方式不定期分享，包含：
-
 - [🧰 工具](https://jianghuliaoit.com/nav/ai-chat)
 - [🍎 资讯](https://jianghuliaoit.com/news/ai-news-2025)
 - [🍉 AI](https://jianghuliaoit.com/ai/dify)
@@ -58,6 +56,8 @@
 - [🍆 后端](https://jianghuliaoit.com/be/nestjs)
 - [🥑 计算机基础](https://jianghuliaoit.com/computer-basic/design-patterns/)
 - [❌ 成长](https://jianghuliaoit.com/growth/)
+
+<br/>
 
 ## 联系方式
 
@@ -67,11 +67,11 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
 ### 微信
 
-<img src="https://jianghuliaoit.com/make-a-friend/fuye-weichat-qr.jpg" width=300 />
+<img src="https://jianghuliaoit.com/make-a-friend/fuye-weichat-qr.jpg" width="100%" />
     </td>
     <td valign="top" width="33%">
     </td>
