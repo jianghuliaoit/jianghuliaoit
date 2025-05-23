@@ -3,13 +3,19 @@
 <img src="./static/images/header.jpg" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">江湖聊IT，一个专注于技术与生活分享的网络博客</div>
+### <div align="center" style="line-height: 30px;">江湖聊IT，一个专注于技术与生活分享的网络博客</div>
+
+<div align="center">
+  <a href="https://github.com/jianghuliaoit" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <br>
 
 <!-- skill -->
 
-## 技能
+## 技能图谱
 
 <table>
   <tr>
@@ -38,9 +44,16 @@
 
 ## Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jianghuliaoit&show_icons=true&count_private=true" alt="jianghuliaoit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jianghuliaoit" alt="jianghuliaoit" /></p>
+<table style="boarder: 0 none;">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jianghuliaoit&show_icons=true&count_private=true" alt="jianghuliaoit" />
+    </td>
+    <td valign="top" width="50%" align="center">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jianghuliaoit" alt="jianghuliaoit" />
+    </td>
+   </tr>
+</table>
 
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![](https://github.com/jianghuliaoit/jianghuliaoit/raw/output/github-contribution-grid-snake.svg)
@@ -60,10 +73,6 @@
 <br/>
 
 ## 联系方式
-
-<a href="https://github.com/jianghuliaoit" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <table>
   <tr>
